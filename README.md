@@ -1,4 +1,3 @@
-```
 ### Hi there, I’m [SwyftG](https://www.peekpa.com/) 👋
 
 <p align="center">
@@ -58,4 +57,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/swyftg/count.svg" />
 </p>
-```
