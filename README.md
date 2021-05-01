@@ -1,24 +1,27 @@
-### Hi there, I’m [SwyftG](https://www.peekpa.com/) 👋 Welcome to my Github page.
+### Hello there, Welcome to my Github page, I’m [SwyftG](https://www.peekpa.com/) 👋 
 
 <p align="center">
   <img src="https://github.com/SwyftG/SwyftG/blob/master/hello-world.gif" width="30%">
 </p>
-
-Here is [![](https://img.shields.io/badge/Owner-Peeka.com-blue)](https://peekpa.com/)
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=swyftg&&theme=radical&text_color=fff&show_icons=true&include_all_commits=true" width="50%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swyftg&layout=compact&theme=radical" width="42%">
 </p>
 
+[《21 个实验带你快速开发 Django 博客系统》](https://www.lanqiao.cn/courses/3326) 作者
+
+[《六十四卦》](https://www.lanqiao.cn/courses/3326) 小程序作者
+
+你可以通过以下二维码关注我的公众号『皮爷撸码』，获取更多编程干货：
 
 <p>
-    <img src="https://github.com/SwyftG/SwyftG/blob/master/pylm.png" width="50%">
-    <img src="https://github.com/SwyftG/SwyftG/blob/master/zhouyi.png" width="42%">
+    <img src="https://raw.githubusercontent.com/SwyftG/SwyftG/master/pylm.png" width="41%">
+    <img src="https://github.com/SwyftG/SwyftG/blob/master/zhouyi.png?raw=true" width="43%">
 </p>
 
 
-
+[![](https://img.shields.io/badge/Owner-Peeka.com-blue)](https://peekpa.com/)
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
