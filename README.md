@@ -1,10 +1,24 @@
-### Hi there, I’m [SwyftG](https://www.peekpa.com/) 👋
+### Hi there, I’m [SwyftG](https://www.peekpa.com/) 👋 Welcome to my Github page.
 
 <p align="center">
   <img src="https://github.com/SwyftG/SwyftG/blob/master/hello-world.gif" width="30%">
 </p>
 
-[![](https://img.shields.io/badge/Owner-Peeka.com-blue)](https://peekpa.com/)
+Here is [![](https://img.shields.io/badge/Owner-Peeka.com-blue)](https://peekpa.com/)
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=swyftg&&theme=radical&text_color=fff&show_icons=true&include_all_commits=true" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swyftg&layout=compact&theme=radical" width="42%">
+</p>
+
+
+<p>
+    <img src="https://github.com/SwyftG/SwyftG/blob/master/pylm.png" width="50%">
+    <img src="https://github.com/SwyftG/SwyftG/blob/master/zhouyi.png" width="42%">
+</p>
+
+
+
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
@@ -46,11 +60,6 @@
 [![](https://img.shields.io/badge/-Kubenetes-2496ED?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
 [![](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-
-
-[![Github Stats By SwyftG](https://github-readme-stats.vercel.app/api?username=swyftg&&theme=radical&text_color=fff&show_icons=true&include_all_commits=true)](https://github.com/swyftg/)
-
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=swyftg&layout=compact&theme=radical)](https://github.com/swyftg/)
 
 
 <p align="center"> 
